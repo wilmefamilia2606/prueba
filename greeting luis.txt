@@ -1,0 +1,24 @@
+Siempre te contacta un agent
+
+Y tú respondes Luis here o hello y 
+ellos te dicen Luis i have a AT&T on the line are You 
+ready ? Tu le dices que si y ellos te transfieren, 
+ellos mismos le dicen al cliente i have your interpreter 
+Luis on the line his ID is SLIR
+
+Y tú entras con
+
+Hello, this is Luis your Spanish interpreter 
+how may i assist you?
+
+Si te piden tu ID tu le das el ID
+Son solo letras SLIR
+
+Tu closing es 
+Do you require any further assistance?
+Si te dicen no 
+
+Thank You for using our service
+
+
+
